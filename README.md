@@ -76,22 +76,22 @@ Blah blah...
 Blah blah...
 
 # Examples / Screenshots for Setting up Mars Environment
-###### Screenshot 1.0: Obtaining Project Files by Clicking the Green "Code" Button
+###### Screenshot 1.0: Obtain Project Files by Clicking the Green "Code" Button
 <img width="1440" alt="1" src="https://user-images.githubusercontent.com/57727121/131527205-11332ed8-bce2-4fe7-9dd3-5ff9757ee0b5.png">
 
 <p>&nbsp;</p>
 
-###### Screenshot 2.0: Error Message that States you Cannot Open File because it is from an Unidentified Developer
+###### Screenshot 2.0: You will Receive an Error Message that States you Cannot Open the File because it is from an Unidentified Developer
 <img width="1016" alt="2" src="https://user-images.githubusercontent.com/57727121/131527822-6de4f767-1f7f-434f-8b82-4efb3d07f7cf.png">
 
 <p>&nbsp;</p>
 
-###### Screenshot 3.0: System Preferences / Settings
+###### Screenshot 3.0: After Receiving the Error Message, go to System Preferences / Settings
 <img width="398" alt="3" src="https://user-images.githubusercontent.com/57727121/131533138-7a9ae05b-fbeb-4ae1-8a13-4124c1bf4a1f.png">
 
 <p>&nbsp;</p>
 
-###### Screenshot 4.0: The "Security & Privacy" Icon
+###### Screenshot 4.0: In System Preferences / Settings, go to the "Security & Privacy" Icon
 <img width="75" alt="5" src="https://user-images.githubusercontent.com/57727121/131533625-40e7e97e-a7fa-4a5b-a219-4c738f3e667e.png">
 
 <p>&nbsp;</p>
@@ -102,17 +102,17 @@ Blah blah...
 
 <p>&nbsp;</p>
 
-###### Screenshot 6.0: Within the "Security & Privacy" settings, click the "Open Anyway" Button
+###### Screenshot 6.0: Within the "Security & Privacy" Settings, Click the "Open Anyway" Button
 <img width="720" alt="6" src="https://user-images.githubusercontent.com/57727121/131534562-c38768cb-003f-4ba0-ac70-587d64f11fe2.png">
 
 <p>&nbsp;</p>
 
-###### Screenshot 7.0: After clicking the "Open Anyway" Button, Click the "Open" Button in the Pop-up Message (if it appears)
+###### Screenshot 7.0: After Clicking the "Open Anyway" Button, Click the "Open" Button in the Pop-up Message (if it appears)
 <img width="839" alt="7" src="https://user-images.githubusercontent.com/57727121/131534944-fb19a6ef-0e58-420f-9e42-7486a63fb9b1.png">
 
 <p>&nbsp;</p>
 
-###### Screenshot 8.0: Mars Environment
+###### Screenshot 8.0: The Mars Environment should now Open
 <img width="1434" alt="8" src="https://user-images.githubusercontent.com/57727121/131535532-cb835f84-bf97-45a8-b4ca-9e9cc9a8c491.png">
 
 <p>&nbsp;</p>
