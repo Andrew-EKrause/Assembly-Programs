@@ -56,9 +56,17 @@ The program, when run, prints out a simple "Hello World" message in the Mars "Ru
 ![Screen Shot 2021-08-31 at 11 56 49 AM 2](https://user-images.githubusercontent.com/57727121/131544753-0cc0db2f-9dab-4a20-9e10-d40a22e6d4b9.png)
 <p>&nbsp;</p>
 
+6. At this point, the program should have been executed. Keep in mind that the more program files you open, the more tabs will appear in your Mars environment (each tab is for each program opened). To close a certain program down, click "File" and then click "Close" to close the program you want taken out of the Mars environment. Click "Close All" to take all the programs out of the Mars environement (See screenshot shown below).
+
+###### Screenshot: Closing a Program File
+![Screen Shot 2021-08-31 at 1 55 01 PM 2](https://user-images.githubusercontent.com/57727121/131560019-74ec1a1b-5abe-40ee-85ca-815ed6f61927.png)
+<p>&nbsp;</p>
+
+7. Try the other programs! Keep in mind that some of the programs will require you to enter some input in the form of numbers.
+
 ### Program 2: `firstnumberlist.asm`
 **_Program that Lists Numbers_** <br/>
-Blah blah...
+The program displays 12 values in decreasing order by the value of 7. The program starts with the value of 700, and decrements the value from that point onward. The decrementation will be printed out on the screen. If you need to see any screenshots, which were specified in `Program 1: helloprogram0mips.asm`, click the following link: [See screenshots on opening and running program](#running-the-assembly-programs) Steps to running the program are listed below.
 
 ### Program 3: `indicesum.asm`
 **_Program that Sums the Numbers in an Array_** <br/>
