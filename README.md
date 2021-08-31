@@ -68,7 +68,7 @@ The program, when run, prints out a simple "Hello World" message in the Mars "Ru
 
 ### Program 2: `firstnumberlist.asm`
 **_Program that Lists Numbers_** <br/>
-The program displays 12 values in decreasing order by the value of 7. The program starts with the value of 700, and decrements the value from that point onward. The decrementation will be printed out on the screen. If you need to see any screenshots, which were specified in `Program 1: helloprogram0mips.asm`, click the following link: [See screenshots on opening and running the program](#running-the-assembly-programs). Steps to running the program are listed below.
+The program displays 12 values in decreasing order by the value of 7. The program starts with the value of 700, and decrements the value from that point onward. The decrementation will be printed out on the screen. If you need to see any screenshots, which were specified in "Program 1: helloprogram0mips.asm", click the following link: [See screenshots on opening and running the program](#running-the-assembly-programs). Steps to running the program are listed below.
 
 1. First, click on "File" in the Mars environemnt. Then click "Open". A window should open where you can select a .asm file to open in the Mars environment.
 2. If you do not see any .asm files you can select to open, navigate to the project folder you downloaded from this repository. Select the "firstnumberlist.asm" file. Click "Open".
@@ -80,7 +80,7 @@ The program displays 12 values in decreasing order by the value of 7. The progra
 
 ### Program 3: `indicesum.asm`
 **_Program that Sums the Numbers in an Array_** <br/>
-The program adds together the indices of a while loop that runs 10 times. The previous value of the indice is printed off before being added to the value of the next indice. After the program is run, the following values should appear in the "Run I/O" section of the Mars environment: 0 1 3 6 10 15 21 28 36 45. If you need to see any screenshots, which were specified in `Program 1: helloprogram0mips.asm`, click the following link: [See screenshots on opening and running the program](#running-the-assembly-programs). Steps to running the program are listed below.
+The program adds together the indices of a while loop that runs 10 times. The previous value of the indice is printed off before being added to the value of the next indice. After the program is run, the following values should appear in the "Run I/O" section of the Mars environment: 0 1 3 6 10 15 21 28 36 45. If you need to see any screenshots, which were specified in "Program 1: helloprogram0mips.asm", click the following link: [See screenshots on opening and running the program](#running-the-assembly-programs). Steps to running the program are listed below.
 
 1. First, click on "File" in the Mars environemnt. Then click "Open". A window should open where you can select a .asm file to open in the Mars environment.
 2. If you do not see any .asm files you can select to open, navigate to the project folder you downloaded from this repository. Select the "indicesum.asm" file. Click "Open".
@@ -92,7 +92,7 @@ The program adds together the indices of a while loop that runs 10 times. The pr
 
 ### Program 4: `listnumbers.asm`
 **_Program that Lists Numbers with Additional Features_** <br/>
-This program is slightly different compared to programs 1-3. The program requires the user to enter in a numerical value in the "Run I/O" tab at the bottom of the Mars environment. The program then takes that numerical value and subtracts the value of 7 from it 12 times. The original value entered by the user as well as the results of the subtractions made on that value are printed out within the "Run I/O" tab at the bottom of the Mars environment after the program finishes running. If you need to see any screenshots for opening the file, which were specified in `Program 1: helloprogram0mips.asm`, click the following link: [See screenshots on opening and running the program](#running-the-assembly-programs). Steps to running the program are listed below.
+This program is slightly different compared to programs 1-3. The program requires the user to enter in a numerical value in the "Run I/O" tab at the bottom of the Mars environment. The program then takes that numerical value and subtracts the value of 7 from it 12 times. The original value entered by the user as well as the results of the subtractions made on that value are printed out within the "Run I/O" tab at the bottom of the Mars environment after the program finishes running. If you need to see any screenshots for opening the file, which were specified in "Program 1: helloprogram0mips.asm", click the following link: [See screenshots on opening and running the program](#running-the-assembly-programs). Steps to running the program are listed below.
 
 1. First, click on "File" in the Mars environemnt. Then click "Open". A window should open where you can select a .asm file to open in the Mars environment.
 2. If you do not see any .asm files you can select to open, navigate to the project folder you downloaded from this repository. Select the "listnumbers.asm" file. Click "Open".
@@ -154,8 +154,8 @@ This program is very similar to `Program 5`. However, a key difference is that t
 <p>&nbsp;</p>
 
 ###### Screenshot 5.0: Within System Preferences / Settings, Click on the "Security & Privacy" Icon
-<img width="721" alt="4" src="https://user-images.githubusercontent.com/57727121/131533553-b4173e16-740b-4f90-a3b1-596cc2be601b.png">
 <img width="75" alt="5" src="https://user-images.githubusercontent.com/57727121/131533625-40e7e97e-a7fa-4a5b-a219-4c738f3e667e.png">
+<img width="721" alt="4" src="https://user-images.githubusercontent.com/57727121/131533553-b4173e16-740b-4f90-a3b1-596cc2be601b.png">
 
 <p>&nbsp;</p>
 
