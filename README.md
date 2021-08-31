@@ -38,7 +38,7 @@ The program, when run, prints out a simple "Hello World" message in the Mars "Ru
 
 2. If you do not see any .asm files you can select to open, navigate to the project folder you downloaded from this repository. Select the "helloprogram0mips.asm" file. Click "Open".
 
-3. To run the program, click on the "Run" option at the top of the Mars environment window, and then click "Assemble"
+3. To run the program, click on the "Run" option at the top of the Mars environment window, and then click "Assemble".
 ###### Screenshot: Assembling a Program in the Mars Environment
 ![11](https://user-images.githubusercontent.com/57727121/131542937-dc2fc1b3-c102-4ae8-8d63-76a9bed5df76.png)
 <p>&nbsp;</p>
@@ -69,21 +69,29 @@ The program, when run, prints out a simple "Hello World" message in the Mars "Ru
 **_Program that Lists Numbers_** <br/>
 The program displays 12 values in decreasing order by the value of 7. The program starts with the value of 700, and decrements the value from that point onward. The decrementation will be printed out on the screen. If you need to see any screenshots, which were specified in `Program 1: helloprogram0mips.asm`, click the following link: [See screenshots on opening and running the program](#running-the-assembly-programs). Steps to running the program are listed below.
 
+1. First, click on "File" in the Mars environemnt. Then click "Open". A window should open where you can select a .asm file to open in the Mars environment.
+2. If you do not see any .asm files you can select to open, navigate to the project folder you downloaded from this repository. Select the "firstnumberlist.asm" file. Click "Open".
+3. To run the program, click on the "Run" option at the top of the Mars environment window, and then click "Assemble".
+4. You should recieve a message in the "Mars Messages" tab at the bottom of the Mars environment window indicating that the execution completed successfully.
+5. After you see the confirmation message, "execution completed successfully", click the green run icon. The program should run, and you should see the output on the "Run I/O" tab at the bottom of the Mars environment window.
+6. At this point, the program should have been executed. Keep in mind that the more program files you open, the more tabs will appear in your Mars environment (each tab is for each program opened). To close a certain program down, click "File" and then click "Close" to close the program you want taken out of the Mars environment. Click "Close All" to take all the programs out of the Mars environement.
+<p>&nbsp;</p>
+
 ### Program 3: `indicesum.asm`
 **_Program that Sums the Numbers in an Array_** <br/>
-Blah blah...
+Blah blah blah...If you need to see any screenshots, which were specified in `Program 1: helloprogram0mips.asm`, click the following link: [See screenshots on opening and running the program](#running-the-assembly-programs). Steps to running the program are listed below.
 
 ### Program 4: `listnumbers.asm`
 **_Program that Lists Numbers with Additional Features_** <br/>
-Blah blah...
+Blah blah blah...If you need to see any screenshots, which were specified in `Program 1: helloprogram0mips.asm`, click the following link: [See screenshots on opening and running the program](#running-the-assembly-programs). Steps to running the program are listed below.
 
 ### Program 5: `recursivesort.asm`
 **_Program that Recursively Sorts an Array_** <br/>
-Blah blah...
+Blah blah blah...If you need to see any screenshots, which were specified in `Program 1: helloprogram0mips.asm`, click the following link: [See screenshots on opening and running the program](#running-the-assembly-programs). Steps to running the program are listed below.
 
 ### Program 6: `simplesort.asm`
 **_Program that uses the Simple Sort Algorithm on Arrays_** <br/>
-Blah blah...
+Blah blah blah...If you need to see any screenshots, which were specified in `Program 1: helloprogram0mips.asm`, click the following link: [See screenshots on opening and running the program](#running-the-assembly-programs). Steps to running the program are listed below.
 
 # Screenshots for Setting up Mars Environment
 ### [Click this Link to go Back to Steps for Setting Up the Mars Environment](#setting-up-the-mars-envrionment)
