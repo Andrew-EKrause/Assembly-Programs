@@ -23,6 +23,7 @@ This repository contains six simple programs written in the MIPS Assembly langua
 11. Your Mars4_5.jar file should now open on your computer. See `Screenshot 8.0` if you want to compare what your Mars workspace looks like compared to the attached screenshot (they should look very similar).
 12. See the following project descriptions below this step to run whichever assembly program you would like using the Mars environment. 
 13. IMPORTANT: I would recommend starting with the first program, which is `helloprogram0mips.asm`. How you open the file in the Mars environment and run it is very similar to the other programs you can run in this project. However, "helloprgram0mips.asm" is the only assembly program that has detailed screenshots on opening and running it. The other programs follow the same process. If you are running a different program and cannot remember how to open a file, refer back to the "helloprogram0mips.asm" program screenshots for help.
+14. For more information on the Mars environemnt (IDE), click the following link: http://courses.missouristate.edu/kenvollmar/mars/.
 
 # Running the Assembly Programs
 ### Program 1: `helloprogram0mips.asm` (Refer back to screenshots here if you get stuck on running the other programs)
@@ -66,7 +67,7 @@ The program, when run, prints out a simple "Hello World" message in the Mars "Ru
 
 ### Program 2: `firstnumberlist.asm`
 **_Program that Lists Numbers_** <br/>
-The program displays 12 values in decreasing order by the value of 7. The program starts with the value of 700, and decrements the value from that point onward. The decrementation will be printed out on the screen. If you need to see any screenshots, which were specified in `Program 1: helloprogram0mips.asm`, click the following link: [See screenshots on opening and running program](#running-the-assembly-programs) Steps to running the program are listed below.
+The program displays 12 values in decreasing order by the value of 7. The program starts with the value of 700, and decrements the value from that point onward. The decrementation will be printed out on the screen. If you need to see any screenshots, which were specified in `Program 1: helloprogram0mips.asm`, click the following link: [See screenshots on opening and running the program](#running-the-assembly-programs). Steps to running the program are listed below.
 
 ### Program 3: `indicesum.asm`
 **_Program that Sums the Numbers in an Array_** <br/>
