@@ -64,6 +64,7 @@ The program, when run, prints out a simple "Hello World" message in the Mars "Ru
 <p>&nbsp;</p>
 
 7. Try the other programs! Keep in mind that some of the programs will require you to enter some input in the form of numbers.
+<p>&nbsp;</p>
 
 ### Program 2: `firstnumberlist.asm`
 **_Program that Lists Numbers_** <br/>
@@ -79,7 +80,15 @@ The program displays 12 values in decreasing order by the value of 7. The progra
 
 ### Program 3: `indicesum.asm`
 **_Program that Sums the Numbers in an Array_** <br/>
-Blah blah blah...If you need to see any screenshots, which were specified in `Program 1: helloprogram0mips.asm`, click the following link: [See screenshots on opening and running the program](#running-the-assembly-programs). Steps to running the program are listed below.
+The program adds together the indices of a while loop that runs 10 times. The previous value of the indice is printed off before being added to the value of the next indice. After the program is run, the following values should appear in the "Run I/O" section of the Mars environment: 0 1 3 6 10 15 21 28 36 45. If you need to see any screenshots, which were specified in `Program 1: helloprogram0mips.asm`, click the following link: [See screenshots on opening and running the program](#running-the-assembly-programs). Steps to running the program are listed below.
+
+1. First, click on "File" in the Mars environemnt. Then click "Open". A window should open where you can select a .asm file to open in the Mars environment.
+2. If you do not see any .asm files you can select to open, navigate to the project folder you downloaded from this repository. Select the "indicesum.asm" file. Click "Open".
+3. To run the program, click on the "Run" option at the top of the Mars environment window, and then click "Assemble".
+4. You should recieve a message in the "Mars Messages" tab at the bottom of the Mars environment window indicating that the execution completed successfully.
+5. After you see the confirmation message, "execution completed successfully", click the green run icon. The program should run, and you should see the output on the "Run I/O" tab at the bottom of the Mars environment window.
+6. At this point, the program should have been executed. Keep in mind that the more program files you open, the more tabs will appear in your Mars environment (each tab is for each program opened). To close a certain program down, click "File" and then click "Close" to close the program you want taken out of the Mars environment. Click "Close All" to take all the programs out of the Mars environement.
+<p>&nbsp;</p>
 
 ### Program 4: `listnumbers.asm`
 **_Program that Lists Numbers with Additional Features_** <br/>
