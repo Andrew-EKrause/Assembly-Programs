@@ -29,14 +29,18 @@ This repository contains six simple programs written in the MIPS Assembly langua
 The program, when run, prints out a simple "Hello World" message in the Mars "Run I/O" tab. The value of a variable is also printed out as it is changed in a loop within the program. Steps to running the program are listed below:
 
 1. First, click on "File" in the Mars environemnt. Then click "Open". A window should open where you can select a .asm file to open in the Mars environment.
-
-###### Screenshots: Opening a file in the Mars Environment
+###### Screenshots: Opening a File in the Mars Environment
 ![9](https://user-images.githubusercontent.com/57727121/131539271-39ae66da-1635-4001-b173-c47506e51ba5.png)
 <img width="1440" alt="10" src="https://user-images.githubusercontent.com/57727121/131540318-610e8351-e838-4929-a2e1-ade18b7ed9d9.png">
 <p>&nbsp;</p>
 
-2. Navigate to the project folder you downloaded from this repository, and select the "helloprogram0mips.asm" file. Click "Open".
+2. If you do not see any .asm files you can select to open, navigate to the project folder you downloaded from this repository. Select the "helloprogram0mips.asm" file. Click "Open".
+
 3. To run the program, click on the "Run" option at the top of the Mars environment window, and then click "Assemble"
+###### Screenshots: Assembling a Program in the Mars Environment
+![11](https://user-images.githubusercontent.com/57727121/131542937-dc2fc1b3-c102-4ae8-8d63-76a9bed5df76.png)
+<p>&nbsp;</p>
+
 
 ### Program: firstnumberlist.asm
 **_Program that Lists Numbers_** <br/>
