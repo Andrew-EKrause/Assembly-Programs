@@ -41,8 +41,9 @@ Blah blah...
 5. Double click on the "Assembly-Programs-master" folder to see its contents. Then double click on the Mars4_5.jar file to open it.
 6. IMPORTANT: You will likely get an error saying that the Mars4_5.jar file cannot be opened because it is from an unidentified developer. to get over this issue, first navigate to your `System Preferences/Settings` on your computer (See `Screenshot 2.0` below for more details).
 7. In your System Preferences/Settings, click on the `Security and Privacy` icon/settings (See `Screenshots 3.0, 4.0, and 5.0` below for more details).
-8. Inside of the Security and Privacy settings, under the `General` tab, you should see a message that says: "Mars4_5.jar file was blocked from use because it is not from an identified developer." Click the `Open Anyway` button, which should be appearing alongside the message. You should then be able to open the Mars4_5.jar file.
-9. 
+8. Inside of the Security and Privacy settings, under the `General` tab, you should see a message that says: "Mars4_5.jar file was blocked from use because it is not from an identified developer." Click the `Open Anyway` button, which should be appearing alongside the message. (See `Screenshot 6.0` below for more details).
+9. After clicking the "Open Anyway" button, you will likely get a message that asks if you are sure that you want to open the Mars4_5.jar file. Click the "Open" button on the message (See `Screenshot 7.0` below for more details).
+10. Your Mars4_5.jar file should now open on your computer. See `Screenshot 8.0` if you want to compare what your Mars workspace looks like compared to the attached screenshot (they should look very similar).
 
 # Examples / Screenshots
 ###### Screenshot 1.0: Obtaining Project Files by Clicking the Green "Code" Button
@@ -60,11 +61,33 @@ Blah blah...
 
 <p>&nbsp;</p>
 
-###### Screenshots 4.0 and 5.0: Within System Preferences / Settings, Click on the "Security & Privacy" Icon
+###### Screenshot 4.0: The "Security & Privacy" Icon
+<img width="75" alt="5" src="https://user-images.githubusercontent.com/57727121/131533625-40e7e97e-a7fa-4a5b-a219-4c738f3e667e.png">
+
+<p>&nbsp;</p>
+
+###### Screenshot 5.0: Within System Preferences / Settings, Click on the "Security & Privacy" Icon
 <img width="721" alt="4" src="https://user-images.githubusercontent.com/57727121/131533553-b4173e16-740b-4f90-a3b1-596cc2be601b.png">
 <img width="75" alt="5" src="https://user-images.githubusercontent.com/57727121/131533625-40e7e97e-a7fa-4a5b-a219-4c738f3e667e.png">
 
 <p>&nbsp;</p>
+
+###### Screenshot 6.0: Within the "Security & Privacy" settings, click the "Open Anyway" Button
+<img width="720" alt="6" src="https://user-images.githubusercontent.com/57727121/131534562-c38768cb-003f-4ba0-ac70-587d64f11fe2.png">
+
+<p>&nbsp;</p>
+
+###### Screenshot 7.0: After clicking the "Open Anyway" Button, Click the "Open" Button in the Pop-up Message (if it appears)
+<img width="839" alt="7" src="https://user-images.githubusercontent.com/57727121/131534944-fb19a6ef-0e58-420f-9e42-7486a63fb9b1.png">
+
+<p>&nbsp;</p>
+
+###### Screenshot 8.0: Mars Environment
+<img width="1434" alt="8" src="https://user-images.githubusercontent.com/57727121/131535532-cb835f84-bf97-45a8-b4ca-9e9cc9a8c491.png">
+
+<p>&nbsp;</p>
+
+
 
 **_@Author: Andrew Krause_** <br/>
 *LinkedIn:* https://www.linkedin.com/in/andrew-krause-b6aa21179/ <br/>
