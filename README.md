@@ -148,14 +148,13 @@ This program is very similar to `Program 5`. However, a key difference is that t
 
 <p>&nbsp;</p>
 
-###### Screenshot 4.0: In System Preferences / Settings, go to the "Security & Privacy" Icon
-<img width="75" alt="5" src="https://user-images.githubusercontent.com/57727121/131533625-40e7e97e-a7fa-4a5b-a219-4c738f3e667e.png">
+###### Screenshot 4.0: In System Preferences / Settings, find the "Security & Privacy" Icon
+<img width="721" alt="4" src="https://user-images.githubusercontent.com/57727121/131533553-b4173e16-740b-4f90-a3b1-596cc2be601b.png">
 
 <p>&nbsp;</p>
 
 ###### Screenshot 5.0: Within System Preferences / Settings, Click on the "Security & Privacy" Icon
 <img width="75" alt="5" src="https://user-images.githubusercontent.com/57727121/131533625-40e7e97e-a7fa-4a5b-a219-4c738f3e667e.png">
-<img width="721" alt="4" src="https://user-images.githubusercontent.com/57727121/131533553-b4173e16-740b-4f90-a3b1-596cc2be601b.png">
 
 <p>&nbsp;</p>
 
