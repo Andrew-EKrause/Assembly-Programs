@@ -28,28 +28,32 @@ This repository contains six simple programs written in the MIPS Assembly langua
 The program, when run, prints out a simple "Hello World" message in the Mars "Run I/O" tab. The value of a variable is also printed out as it is changed in a loop within the program. Steps to running the program are listed below:
 
 1. First, click on "File" in the Mars environemnt. Then click "Open". A window should open where you can select a .asm file to open in the Mars environment.
+
+###### Screenshots: Opening a file in the Mars Environment
 ![9](https://user-images.githubusercontent.com/57727121/131539271-39ae66da-1635-4001-b173-c47506e51ba5.png)
+<img width="1440" alt="10" src="https://user-images.githubusercontent.com/57727121/131540318-610e8351-e838-4929-a2e1-ade18b7ed9d9.png">
 <p>&nbsp;</p>
 
 2. Navigate to the project folder you downloaded from this repository, and select the "helloprogram0mips.asm" file. Click "Open".
+3. To run the program, click on the "Run" option at the top of the Mars environment window, and then click "Assemble"
 
-### firstnumberlist.asm
+### Program: firstnumberlist.asm
 **_Program that Lists Numbers_** <br/>
 Blah blah...
 
-### indicesum.asm
+### Program: indicesum.asm
 **_Program that Sums the Numbers in an Array_** <br/>
 Blah blah...
 
-### listnumbers.asm
+### Program: listnumbers.asm
 **_Program that Lists Numbers with Additional Features_** <br/>
 Blah blah...
 
-### recursivesort.asm
+### Program: recursivesort.asm
 **_Program that Recursively Sorts an Array_** <br/>
 Blah blah...
 
-### simplesort.asm
+### Program: simplesort.asm
 **_Program that uses the Simple Sort Algorithm on Arrays_** <br/>
 Blah blah...
 
