@@ -23,7 +23,7 @@ This repository contains six simple programs written in the MIPS Assembly langua
 11. See the following project descriptions below this step to run whichever assembly program you would like using the Mars environment. 
 12. IMPORTANT: I would recommend starting with the first program, which is "helloprogram0mips.asm". How you open the file in the Mars environment and run it is very similar to the other programs you can run in this project. However, "helloprgram0mips.asm" is the only assembly program that has detailed screenshots on opening and running it. The other programs follow the same process. If you are running a different program and cannot remember how to open a file, refer back to the "helloprogram0mips.asm" program screenshots to help.
 
-### helloprogram0mips.asm (Refer back to screenshots here if you get stuck on running the other programs)
+### Program: helloprogram0mips.asm (Refer back to screenshots here if you get stuck on running the other programs)
 **_Simple Hello World Program_** <br/>
 The program, when run, prints out a simple "Hello World" message in the Mars "Run I/O" tab. The value of a variable is also printed out as it is changed in a loop within the program. Steps to running the program are listed below:
 
