@@ -48,7 +48,7 @@ The program, when run, prints out a simple "Hello World" message in the Mars "Ru
 ![12](https://user-images.githubusercontent.com/57727121/131543641-57ecfa17-5308-4858-a758-dba8ac397cc1.png)
 <p>&nbsp;</p>
 
-5. After you see the confirmation message, "execution completed successfully", click the green run icon (See screenshot shown below). The program should run, and you should see the output on the "Run I/O" tab at the bottom of the Mars environment window.
+5. After you see the confirmation message, "execution completed successfully", click the green run icon (See screenshots shown below). The program should run, and you should see the output on the "Run I/O" tab at the bottom of the Mars environment window.
 ###### Screenshot: Green "Run" Icon
 <img width="56" alt="Screen Shot 2021-08-31 at 11 51 44 AM" src="https://user-images.githubusercontent.com/57727121/131544148-785b608e-e076-4e61-b1ad-4ce6142536f2.png">
 <p>&nbsp;</p>
