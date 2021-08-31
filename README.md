@@ -8,7 +8,7 @@ This repository contains six simple programs written in the MIPS Assembly langua
 - MIPS Assembly Language
 - Mars (IDE)
 
-# Setting up Mars Envrionment
+# Setting up the Mars Envrionment
 ## Mars (IDE)
 1. Click on the green `Code` button in the righthand corner of the project page (See `Screenshot 1.0` below for visual details).
 2. Click the `Download Zip` option in the dropdown menu that appears after you click the green Code button.
