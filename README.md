@@ -92,7 +92,16 @@ The program adds together the indices of a while loop that runs 10 times. The pr
 
 ### Program 4: `listnumbers.asm`
 **_Program that Lists Numbers with Additional Features_** <br/>
-Blah blah blah...If you need to see any screenshots, which were specified in `Program 1: helloprogram0mips.asm`, click the following link: [See screenshots on opening and running the program](#running-the-assembly-programs). Steps to running the program are listed below.
+This program is slightly different compared to programs 1-3. The program requires the user to enter in a numerical value in the "Run I/O" tab at the bottom of the Mars environment. The program then takes that numerical value and subtracts the value of 7 from it 12 times. The original value entered by the user as well as the results of the subtractions made on that value are printed out within the "Run I/O" tab at the bottom of the Mars environment after the program finishes running. If you need to see any screenshots, which were specified in `Program 1: helloprogram0mips.asm`, click the following link: [See screenshots on opening and running the program](#running-the-assembly-programs). Steps to running the program are listed below.
+
+1. First, click on "File" in the Mars environemnt. Then click "Open". A window should open where you can select a .asm file to open in the Mars environment.
+2. If you do not see any .asm files you can select to open, navigate to the project folder you downloaded from this repository. Select the "indicesum.asm" file. Click "Open".
+3. To run the program, click on the "Run" option at the top of the Mars environment window, and then click "Assemble".
+4. You should recieve a message in the "Mars Messages" tab at the bottom of the Mars environment window indicating that the execution completed successfully.
+5. After you see the confirmation message, "execution completed successfully", click the green run icon. The program should run, and you should see the output on the "Run I/O" tab at the bottom of the Mars environment window.
+6. ENTER INPUT: Enter a numerical value in the "Run I/O" tab window ,and hit your `ENTER / RETURN` keyboard on your computer. The program should then execute.
+7. At this point, the program should have been executed. Keep in mind that the more program files you open, the more tabs will appear in your Mars environment (each tab is for each program opened). To close a certain program down, click "File" and then click "Close" to close the program you want taken out of the Mars environment. Click "Close All" to take all the programs out of the Mars environement.
+<p>&nbsp;</p>
 
 ### Program 5: `recursivesort.asm`
 **_Program that Recursively Sorts an Array_** <br/>
