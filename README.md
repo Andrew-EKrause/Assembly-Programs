@@ -37,10 +37,19 @@ The program, when run, prints out a simple "Hello World" message in the Mars "Ru
 2. If you do not see any .asm files you can select to open, navigate to the project folder you downloaded from this repository. Select the "helloprogram0mips.asm" file. Click "Open".
 
 3. To run the program, click on the "Run" option at the top of the Mars environment window, and then click "Assemble"
-###### Screenshots: Assembling a Program in the Mars Environment
+###### Screenshot: Assembling a Program in the Mars Environment
 ![11](https://user-images.githubusercontent.com/57727121/131542937-dc2fc1b3-c102-4ae8-8d63-76a9bed5df76.png)
 <p>&nbsp;</p>
 
+4. You should recieve a message in the "Mars Messages" tab at the bottom of the Mars environment window indicating that the execution completed successfully (See the screenshot shown below).
+###### Screenshot: Confirmation Message after Assembling Program
+![12](https://user-images.githubusercontent.com/57727121/131543641-57ecfa17-5308-4858-a758-dba8ac397cc1.png)
+<p>&nbsp;</p>
+
+5. After you see the confirmation message, "execution completed successfully", click the green run icon (See screenshot shown below). The program should run, and you should see the output on the "Run I/O" tab at the bottom of the Mars environment window.
+###### Screenshot: Green "Run" Icon
+<img width="56" alt="Screen Shot 2021-08-31 at 11 51 44 AM" src="https://user-images.githubusercontent.com/57727121/131544148-785b608e-e076-4e61-b1ad-4ce6142536f2.png">
+<p>&nbsp;</p>
 
 ### Program: firstnumberlist.asm
 **_Program that Lists Numbers_** <br/>
