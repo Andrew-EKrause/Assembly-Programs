@@ -34,7 +34,7 @@ Blah blah...
 
 # Running / Viewing the Project
 ## Mars (IDE)
-1. Click on the green `Code` button in the righthand corner of the project page. 
+1. Click on the green `Code` button in the righthand corner of the project page (See `Screenshot 1.0` below for more details).
 2. Click the `Download Zip` option in the dropdown menu that appears after you click the green Code button.
 3. Go to your `Downloads` on your computer and drag/move the zipped folder onto your Desktop or any location that is easy for you to access.
 4. Double click on the zipped folder to open its contents. A folder called "Assembly-Programs-master" should appear in the same location as the zipped file after you double click the zipped file to open it.
@@ -44,8 +44,9 @@ Blah blah...
 8. Inside of the Security and Privacy settings, under the `General` tab, you should see a message that says: "Mars4_5.jar file was blocked from use because it is not from an identified developer." Click the `Open Anyway` button, which should be appearing alongside the message. You should then be able to open the Mars4_5.jar file.
 9. 
 
-# Insert screenshots here...
-Insert screenshots here if need be.
+# Examples / Screenshots
+###### Screenshot 1.0
+<img width="1440" alt="1" src="https://user-images.githubusercontent.com/57727121/131527205-11332ed8-bce2-4fe7-9dd3-5ff9757ee0b5.png">
 
 <p>&nbsp;</p>
 
