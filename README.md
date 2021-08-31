@@ -77,7 +77,7 @@ Blah blah...
 Blah blah...
 
 # Screenshots for Setting up Mars Environment
-### [Back to Steps for Setting Up the Mars Environment](#setting-up-the-mars-envrionment)
+### [Click this Link to go Back to Steps for Setting Up the Mars Environment](#setting-up-the-mars-envrionment)
 ###### Screenshot 1.0: Obtain Project Files by Clicking the Green "Code" Button
 <img width="1440" alt="1" src="https://user-images.githubusercontent.com/57727121/131527205-11332ed8-bce2-4fe7-9dd3-5ff9757ee0b5.png">
 
