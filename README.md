@@ -10,7 +10,7 @@ This repository contains six simple programs written in the MIPS Assembly langua
 
 # Setting up the Mars Envrionment
 ## Mars (IDE)
-1. NOTE: For additional visual assistance, see the screenshots below under the "Examples / Screenshots for Setting up Mars Environment" section. You can access this section by scrolling down this page or clicking on the link: [Screenshots for Setting up Mars Environment](#screenshots-for-setting-up-mars-environment).
+1. NOTE: For additional visual assistance, see the screenshots below under the "Screenshots for Setting up Mars Environment" section. You can access this section by scrolling down this page or clicking on the link: [Screenshots for Setting up Mars Environment](#screenshots-for-setting-up-mars-environment).
 2. Click on the green `Code` button in the righthand corner of the project page (See `Screenshot 1.0` below for visual details).
 3. Click the `Download Zip` option in the dropdown menu that appears after you click the green Code button.
 4. Go to your `Downloads` on your computer and drag / move the zipped folder onto your Desktop or any location that is easy for you to access.
