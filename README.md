@@ -99,13 +99,23 @@ This program is slightly different compared to programs 1-3. The program require
 3. To run the program, click on the "Run" option at the top of the Mars environment window, and then click "Assemble".
 4. You should recieve a message in the "Mars Messages" tab at the bottom of the Mars environment window indicating that the execution completed successfully.
 5. After you see the confirmation message, "execution completed successfully", click the green run icon. The program should run, and you should see the output on the "Run I/O" tab at the bottom of the Mars environment window.
-6. ENTER INPUT: Enter a numerical value in the "Run I/O" tab window ,and hit your `ENTER / RETURN` keyboard on your computer. The program should then execute.
+6. ENTER INPUT (Number): Enter a numerical value in the "Run I/O" tab window, and hit your `ENTER / RETURN` keyboard on your computer. The program should then execute.
 7. At this point, the program should have been executed. Keep in mind that the more program files you open, the more tabs will appear in your Mars environment (each tab is for each program opened). To close a certain program down, click "File" and then click "Close" to close the program you want taken out of the Mars environment. Click "Close All" to take all the programs out of the Mars environement.
 <p>&nbsp;</p>
 
 ### Program 5: `recursivesort.asm`
 **_Program that Recursively Sorts an Array_** <br/>
-Blah blah blah...If you need to see any screenshots, which were specified in `Program 1: helloprogram0mips.asm`, click the following link: [See screenshots on opening and running the program](#running-the-assembly-programs). Steps to running the program are listed below.
+Like `Program 4`, this program requires the user to enter in some numerical input in order the program to execute. The program recursively sorts through an array of values, and displays the value in numerical order from least to greatest. If you need to see any screenshots, which were specified in `Program 1: helloprogram0mips.asm`, click the following link: [See screenshots on opening and running the program](#running-the-assembly-programs). Steps to running the program are listed below.
+
+1. First, click on "File" in the Mars environemnt. Then click "Open". A window should open where you can select a .asm file to open in the Mars environment.
+2. If you do not see any .asm files you can select to open, navigate to the project folder you downloaded from this repository. Select the "indicesum.asm" file. Click "Open".
+3. To run the program, click on the "Run" option at the top of the Mars environment window, and then click "Assemble".
+4. You should recieve a message in the "Mars Messages" tab at the bottom of the Mars environment window indicating that the execution completed successfully.
+5. After you see the confirmation message, "execution completed successfully", click the green run icon. The program should run, and you should see the output on the "Run I/O" tab at the bottom of the Mars environment window.
+6. ENTER INPUT (Number for array size): Enter a numerical value in the "Run I/O" tab window. This number will represent the size of your array. Remeber, the number you enter here corresponds to the number of values you will have to enter after you hit your `ENTER / RETURN` keyboard on your computer. For example, if I enter the value of `3` in the "Run I/O" window, I will have to enter three other numbers (see the next step below).
+7. ENTER INPUT (Number value(s) in array): In the same "Run I/O" window, enter the numbers that will go into the array. Remember that the number of numerical values you enter here depends on the number you entered in the last step. In the last step, I used the value of `3` for the size of the array. So I could enter 12, -3, and 27 as the `3` values in my array. I specified three numbers (make them all different from each other) to put in the array. Each time you enter a number, you need to hit the `ENTER / RETURN` keyboard on your computer before entering the next number. After you enter the last number and hit `ENTER / RETURN`, the program should execute.
+8. At this point, the program should have been executed. Keep in mind that the more program files you open, the more tabs will appear in your Mars environment (each tab is for each program opened). To close a certain program down, click "File" and then click "Close" to close the program you want taken out of the Mars environment. Click "Close All" to take all the programs out of the Mars environement.
+<p>&nbsp;</p>
 
 ### Program 6: `simplesort.asm`
 **_Program that uses the Simple Sort Algorithm on Arrays_** <br/>
