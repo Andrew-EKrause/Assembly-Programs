@@ -177,6 +177,7 @@ This program is very similar to `Program 5`. However, a key difference is that t
 
 **_@Author: Andrew Krause_** <br/>
 *LinkedIn:* https://www.linkedin.com/in/andrew-krause-b6aa21179/ <br/>
+*Portfolio:* https://andrewkrause.dev/ <br/>
 *Instagram:* https://www.instagram.com/aek.krause/ <br/>
 *Facebook:* https://www.facebook.com/andrew.krause.35325
 
